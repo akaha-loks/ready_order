@@ -26,6 +26,5 @@ public class DeadPL : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+0);
         }
-        
     }
 }
