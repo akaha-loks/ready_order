@@ -12,6 +12,7 @@ TagManager:
   - groundCHECK
   - Kill
   - Locks
+  - End
   layers:
   - Default
   - TransparentFX

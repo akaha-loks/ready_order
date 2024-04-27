@@ -21,5 +21,9 @@ public class FInish : Sounds
             UnLockLevel();
             SceneManager.LoadScene(18);
         }
+        if (collision.tag == "End")
+        {
+            SceneManager.LoadScene(17);
+        }
     }
 }
